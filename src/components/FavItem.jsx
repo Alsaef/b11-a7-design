@@ -11,16 +11,20 @@ const FavItem = () => {
             <div className="card bg-base-100 shadow-sm h-full">
                 <div className="card-body">
                     
-                      <h2 className="text-xl text-center">No favorites yet</h2>
+                   <h2 className="text-xl text-center">No favorites yet</h2>
                             <p className="text-gray-600 mb-4 text-center">Click the heart icon on any item <br /> to add it to your favorites</p>
                     
+
+            
+
+
 
                 </div>
             </div>
 
             <div className='flex items-center justify-between mt-3 px-3'>
                 <h2 className='text-2xl'>Total bids Amount</h2>
-                <h2 className='text-2xl'>$ <span>0</span></h2>
+                <h2 className='text-2xl'>$ <span>000</span></h2>
             </div>
         </div>
     </div>
